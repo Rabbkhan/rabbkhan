@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rabbkhan" /> </p>
 
-- 🌱 I’m currently learning **php ,laravel**
+- 🌱 I’m currently learning **ReactJs ,nodejs**
 
 - 📄 Know about my experiences [https://rabbilkhan.netlify.app/](https://rabbilkhan.netlify.app/)
 
