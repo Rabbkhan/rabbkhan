@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rabbil khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rabbkhan" /> </p>
