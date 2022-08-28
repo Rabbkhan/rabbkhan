@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
 
 
-<p align="left"> <img src="https://i.pinimg.com/736x/cf/a9/06/cfa9065324031b079d58bbf4064640dd.jpg" alt="rabbkhan" /> </p>
+<p align="left"> <img src="" alt="rabbkhan" /> </p>
 
 - 🌱 I’m currently learning **ReactJs ,nodejs**
 
