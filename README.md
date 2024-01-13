@@ -8,7 +8,7 @@
  -->
 - 🌱 I’m currently learning **ReactJs ,nodejs**
 
-- 📄 Know about my experiences [https://rabbilkhan.netlify.app/](https://rabbilkhan.netlify.app/)
+- 📄 Know about my experiences [https://rabbilkhan.netlify.app/](https://rabbil.vercel.app/)
 
 - ⚡ Fun fact **i am still searching error in my mind**
 
